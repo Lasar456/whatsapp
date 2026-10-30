@@ -1,0 +1,12 @@
+GreenLeaf Clean Campaigns -> Flutter Android APK
+
+1. EXTRACT ZIP (do not upload zip itself)
+2. GitHub -> Lasar456/greenleaf -> Code -> Add file -> Upload files
+3. Upload assets/, lib/, pubspec.yaml, and branding/ to repository root
+4. Keep your existing working .github/workflows/main.yml; or create/update it using the copy in this ZIP
+5. Commit to main
+6. Actions -> Build GreenLeaf Android APK -> open successful run
+7. Artifacts -> GreenLeaf-Android-APK -> download zip
+8. Extract to obtain app-debug.apk; install it on Samsung Galaxy S25
+
+This is an offline UI preview. No live API operations.
